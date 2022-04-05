@@ -179,24 +179,26 @@ In the end of project we expect to launch full operational Smart Container.
 
 | No. |       Expense Item      |   Calculation   |   Total cost    |
 |:---:|:-----------------------:|:---------------:|:---------------:|
-| 1 |           Electronics part           |       120hrs*25usd       |     ...         |
-| 2 |           IOS/Android APP          |       100hrs*25usd       |     ...         |
+| 1 |           Electronics part           |       120hrs*25usd       |     3000         |
+| 2 |           IOS/Android APP          |       100hrs*25usd       |     2500         |
 | ... |           Hardware part           |       ...       |     ...         |
 | 3 |           Materials:
 - metal part of the hull including laser cutting
-           |       1200       |     ...         |
-| ... |           polycarbonate viewports           |       400       |     ...         |
-| ... |           65T steel for shredder          |       300       |     ...         |
-| ... |gearmotor|       500      |     ... |
-| ... |shredder converter|       300       |     ... |
-| ... |worm mini-motor gearbox|       400       |     ... |
-| ... |proximity switches|       400       |     ... |
-| ... |pulleys for machinery|       200       |     ... |
-| ... |painting, anodizing|       230       |     ... |
-| ... |arduino Mega|       75       |     ... |
-| ... |Welding, assembling|      1100       |     ... |
-| ... |Network transaction costs|       ...       |     ... |
-|     |                         |    **TOTAL:**   |                 |
+           |       1200       |     1200         |
+| ... |           polycarbonate viewports           |       400       |     400         |
+| ... |           65T steel for shredder          |       300       |     300         |
+| ... |gearmotor|       500      |     500 |
+| ... |shredder converter|       300       |     300 |
+| ... |worm mini-motor gearbox|       400       |     400 |
+| ... |proximity switches|       400       |     400 |
+| ... |pulleys for machinery|       200       |     200 |
+| ... |painting, anodizing|       230       |     230 |
+| ... |arduino Mega|       75       |     75 |
+| ... |Welding, assembling|      1100       |     1100 |
+| ... |Network transaction costs|     in Kusama = 0.002 ksm( 0.348 USD)
+Everyday blockchain usage = 2 trans. 
+     |     21 per month   |
+|     |                         |    **TOTAL:**   |    10626             |
 
 ---
 
